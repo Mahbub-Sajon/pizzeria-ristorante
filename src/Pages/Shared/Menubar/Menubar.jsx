@@ -27,8 +27,8 @@ const Menubar = () => {
       </div>
       <div className=" fixed z-10 flex justify-between items-center w-full md:pl-36 pr-24 py-2 bg-navBg">
        <div className="text-white hidden md:block">
-        <p>BISTRO BOSS</p>
-        <p>Restaurant</p>
+        <p>PIZZERIA</p>
+        <p>Ristorante</p>
        </div>
       <ul className={`text-white font-bold md:flex duration-500 ease-in absolute md:static   
       ${open ? 'top-5' : 'top-[-200px]'}`}>
